@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="width:100%;" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/291435166/original/da728a25128f53354aa31845c782a46f7cd75b9e/develop-website-with-django-python-full-stack-developer-93a9.png"  />
+  <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/291435166/original/da728a25128f53354aa31845c782a46f7cd75b9e/develop-website-with-django-python-full-stack-developer-93a9.png"  />
 </div>
 
 ###

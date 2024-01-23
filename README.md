@@ -20,11 +20,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=GautamSavsaviya.GautamSavsaviya&"  />
-</div>
-
-###
 
 <div>
   <h3 align="left">Passionate Django Backend Developer Crafting Elegant and Scalable Solutions for Web Applications</h3>
@@ -37,7 +32,7 @@
   <p align="left">📫 Want to reach me? <a href="mailto:gautamsavasaviya222@gmail.com">Mail</a>, <a href="https://www.linkedin.com/in/gautam-savsaviya/">Linkedin</a></p>
   
   ###
-  
+  <br>
   <h3 align="left">🛠 Language and tools</h3>
 
   ###

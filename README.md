@@ -31,8 +31,10 @@
 
   ###
   
-  <p align="left">📚 I'm currently learning  Django, Back End Development<br>💬 Ask me about C, C++, Python, Django<br>⚡ In my free time I explore new things in tech</p>
-  <p>📫 Want to reach me? <a href="mailto:gautamsavasaviya222@gmail.com">Mail</a></p>
+  <p align="left">📚 I'm currently learning  Django, Back End Development</p>
+  <p align="left">💬 Ask me about C, C++, Python, Django</p>
+  <p align="left">⚡ In my free time I explore new things in tech</p>
+  <p align="left">📫 Want to reach me? <a href="mailto:gautamsavasaviya222@gmail.com"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>, <a href="https://www.linkedin.com/in/gautam-savsaviya/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a></p>
   
   ###
   
